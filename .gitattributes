@@ -1,0 +1,3 @@
+# Exclude files from language analytics
+index.html linguist-generated
+Makefile linguist-generated
